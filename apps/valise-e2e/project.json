@@ -1,0 +1,9 @@
+{
+  "name": "valise-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/valise-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["valise"],
+  "// targets": "to see all targets run: nx show project valise-e2e --web",
+  "targets": {}
+}

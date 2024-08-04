@@ -1,0 +1,9 @@
+{
+  "name": "valise",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/valise",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project valise --web",
+  "targets": {}
+}
